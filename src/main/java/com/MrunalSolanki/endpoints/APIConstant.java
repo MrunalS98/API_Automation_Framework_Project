@@ -1,2 +1,4 @@
-package com.MrunalSolanki.endpoints;public class APIConstant {
+package com.MrunalSolanki.endpoints;
+
+public class APIConstant {
 }

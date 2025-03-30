@@ -1,2 +1,4 @@
-package com.MrunalSolanki.base;public class BaseTest {
+package com.MrunalSolanki.base;
+
+public class BaseTest {
 }

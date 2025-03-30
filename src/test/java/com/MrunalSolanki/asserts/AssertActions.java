@@ -1,2 +1,4 @@
-package com.MrunalSolanki.asserts;public class AssertActions {
+package com.MrunalSolanki.asserts;
+
+public class AssertActions {
 }

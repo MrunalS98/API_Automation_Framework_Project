@@ -1,4 +1,4 @@
-package com.MrunalSolanki.PUT_Request;
+package com.MrunalSolanki.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
